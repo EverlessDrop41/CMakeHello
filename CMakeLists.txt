@@ -1,4 +1,4 @@
-cmake_minimum_required(VERSION 3.6.1app)
+cmake_minimum_required(VERSION 3.6.1)
 
 include_directories(public)
 file(GLOB SOURCES "private/*.cpp")
